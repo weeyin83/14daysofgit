@@ -1,5 +1,6 @@
 # 30DaysofGit
 
+This repository is my journey learning Git and getting familiar with more commands. My aim is to spend at least an hour a day learning a new command or figuring out a way to be more efficient using Git.
 
 ## Progress
 
