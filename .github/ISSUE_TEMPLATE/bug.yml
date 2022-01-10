@@ -9,12 +9,6 @@ body:
       label: Description of the bug
     validations:
       required: true
-  - type: input
-    id: stack
-    attributes:
-      label: Project stack or language (e.g. front-end)
-    validations:
-      required: true
   - type: textarea
     id: workingenvironment
     attributes:
@@ -33,8 +27,4 @@ body:
       label: Add any other context about the problem here
     validations:
       required: false
-  - type: markdown
-    attributes:
-      value: |
-        You can also join our Discord community [here](http://discord.eddiehub.org)
-        Feel free to check out other cool repositories of the EddieHub Community [here](https://github.com/EddieHubCommunity)
+
