@@ -3,10 +3,4 @@ closes #ISSUE-NO
 
 #### What does this PR do?
 
-#### Any background context you want to provide?
-
-#### Is there any relevant issue to this PR?
-
-#### Screenshots (if appropriate)
-
-#### Questions
+#### Does this relate to an issue?
