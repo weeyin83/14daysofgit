@@ -1,6 +1,6 @@
 # 14DaysofGit
 
-This repository is my journey learning Git and getting familiar with more commands. My aim is to spend at least an hour a day learning a new command or figuring out a way to be more efficient using Git.
+This repository is my journey learning Git and getting familiar with more commands. My aim is to spend at least an hour a day learning a new command or figuring out a way to be more efficient using Git.  I hope you find this repository useful. 
 
 ## Git Fundamentals
 - [ ] 1 ⌨️ > [What is Version Control](Resources/day1.md)
