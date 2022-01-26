@@ -13,7 +13,6 @@ jobs:
     steps:
       - uses: EddieHubCommunity/gh-action-community/src/welcome@main
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: "It's great to have your input on this project."
           pr-message: "Thank you for contributing to this project, your support is much appreciated."
           footer: "Stay awesome!"
