@@ -3,7 +3,7 @@
 This repository is my journey learning Git and getting familiar with more commands. My aim is to spend at least an hour a day learning a new command or figuring out a way to be more efficient using Git.
 
 ## Git Fundamentals
-- [ ] 1 ⌨️ > What is Version Control
+- [X] 1 ⌨️ > [What is Version Control](https://www.techielass.com/what-is-version-control/)
 - [ ] 2 ⌨️ > What is Git 
 - [ ] 3 ⌨️ > Installing Git (Command Line and GUI options) 
 - [ ] 4 ⌨️ > Basic Git Commands to get started 
