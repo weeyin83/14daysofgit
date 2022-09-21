@@ -9,7 +9,7 @@ This repository is my journey learning Git and getting familiar with more comman
 - [X] 4 ⌨️ > [Basic Git Commands to get started](https://www.techielass.com/basic-git-commands-to-get-started/)
 
 ## Getting familiar with Git
-- [ ] 5 👀 > Inspecting a repository 
+- [X] 5 👀 > [Inspecting a repository](https://www.techielass.com/inspect-a-git-respository/)
 - [ ] 6 👀 > File Operations 
 - [ ] 7 👀 > Undoing commits & changes 
 - [ ] 8 👀 > Rewriting history 
