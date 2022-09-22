@@ -10,7 +10,7 @@ This repository is my journey learning Git and getting familiar with more comman
 
 ## Getting familiar with Git
 - [X] 5 👀 > [Inspecting a repository](https://www.techielass.com/inspect-a-git-respository/)
-- [ ] 6 👀 > File Operations 
+- [X] 6 👀 > [File Operations](https://www.techielass.com/git-file-operations/) 
 - [ ] 7 👀 > Undoing commits & changes 
 - [ ] 8 👀 > Rewriting history 
 
