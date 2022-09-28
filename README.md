@@ -15,7 +15,7 @@ This repository is my journey learning Git and getting familiar with more comman
 - [X] 8 👀 > [Rewriting history](https://www.techielass.com/rewriting-git-history/)
 
 ## Advanced Git
-- [ ] 9 🦹‍♀️ > Branches 
+- [X] 9 🦹‍♀️ > [Branches](https://wwww.techielass.com/git-branches) 
 - [ ] 10 🦹‍ > Merging 
 - [ ] 11 🦹‍ > Rebasing 
 - [ ] 12 🦹‍ > Stashing 
