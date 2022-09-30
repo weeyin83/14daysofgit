@@ -17,7 +17,7 @@ This repository is my journey learning Git and getting familiar with more comman
 ## Advanced Git
 - [X] 9 🦹‍♀️ > [Branches](https://wwww.techielass.com/git-branches) 
 - [X] 10 🦹‍ > [Merging](https://www.techielass.com/merging-with-git/)
-- [ ] 11 🦹‍ > Rebasing 
+- [X] 11 🦹‍ > [Rebasing](https://www.techielass.com/git-rebasing/) 
 - [ ] 12 🦹‍ > Stashing 
 - [ ] 13 🦹‍ > Conflicts 
 - [ ] 14 🦹‍ > Subtrees and Submodules 
