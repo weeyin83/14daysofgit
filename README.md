@@ -19,5 +19,5 @@ This repository is my journey learning Git and getting familiar with more comman
 - [X] 10 🦹‍ > [Merging](https://www.techielass.com/merging-with-git/)
 - [X] 11 🦹‍ > [Rebasing](https://www.techielass.com/git-rebasing/) 
 - [X] 12 🦹‍ > [Stashing](https://www.techielass.com/git-stashing/) 
-- [ ] 13 🦹‍ > Conflicts 
+- [X] 13 🦹‍ > [Conflicts](https://www.techielass.com/git-conflicts) 
 - [ ] 14 🦹‍ > Subtrees and Submodules 
