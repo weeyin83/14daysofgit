@@ -20,4 +20,4 @@ This repository is my journey learning Git and getting familiar with more comman
 - [X] 11 🦹‍ > [Rebasing](https://www.techielass.com/git-rebasing/) 
 - [X] 12 🦹‍ > [Stashing](https://www.techielass.com/git-stashing/) 
 - [X] 13 🦹‍ > [Conflicts](https://www.techielass.com/git-conflicts) 
-- [ ] 14 🦹‍ > Subtrees and Submodules 
+- [X] 14 🦹‍ > [Subtrees and Submodules](https://www.techielass.com/subtrees-and-submodules)
