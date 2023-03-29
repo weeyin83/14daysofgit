@@ -21,3 +21,8 @@ This repository is my journey learning Git and getting familiar with more comman
 - [X] 12 🦹‍ > [Stashing](https://www.techielass.com/git-stashing/) 
 - [X] 13 🦹‍ > [Conflicts](https://www.techielass.com/git-conflicts) 
 - [X] 14 🦹‍ > [Subtrees and Submodules](https://www.techielass.com/subtrees-and-submodules)
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=weeyin83/14daysofgit&type=Timeline)](https://star-history.com/#weeyin83/14daysofgit&Timeline)
